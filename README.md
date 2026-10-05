@@ -121,8 +121,5 @@ Personal_portfolio/
 ├── assets/
 ├── examples/
 ├── index.html
-├── robots.txt
-├── CODE_OF_CONDUCT.md
-├── LICENSE
 ├── README.md
 └── .gitignore
