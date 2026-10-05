@@ -1,72 +1,128 @@
-# Personal Portfolio ⚡️ 
-> A clean, beautiful, responsive portfolio template for Software Developers!
+# Personal Portfolio ⚡
 
-> https://varadbhogayata.github.io
+Welcome to my personal portfolio website. This repository contains the source code for my portfolio, showcasing my academic background, research work, technical skills, publications, projects, and professional experience.
 
-![GitHub stars](https://img.shields.io/github/stars/varadbhogayata/varadbhogayata.github.io) 
-![GitHub forks](https://img.shields.io/github/forks/varadbhogayata/varadbhogayata.github.io)
-[![Maintenance](https://img.shields.io/badge/maintained-yes-green.svg)](https://github.com/varadbhogayata/varadbhogayata.github.io/commits/master)
-[![Website shields.io](https://img.shields.io/badge/website-up-yellow)](http://varadbhogayata.github.io/)
-[![Ask Me Anything !](https://img.shields.io/badge/ask%20me-linkedin-1abc9c.svg)](https://www.linkedin.com/in/varadbhogayata/)
-[![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](http://badges.mit-license.org)
+## 👨‍💻 About Me
 
-### Website Preview
-<p align="center"> 
-  <kbd>
-    <a href="https://varadbhogayata.github.io" target="_blank"><img src="examples/preview.gif">
-  </a>
-  </kbd>
-</p>
+I am a **Computer Science and Engineering graduate** with a strong academic and research background in **Artificial Intelligence, Machine Learning, Deep Learning, Data Science, and Computer Vision**.
 
-:star: Star me on GitHub — it helps!
+I enjoy solving challenging real-world problems through programming, data-driven approaches, and research. My experience includes data preprocessing, dataset development and annotation, medical image analysis, computer vision, and deep learning-based object detection.
 
-## Features 📋
-⚡️ Fully Responsive\
-⚡️ Valid HTML5 & CSS3\
-⚡️ Typing animation using `Typed.js`\
-⚡️ Easy to modify
+I am currently interested in pursuing a **Master's degree in Artificial Intelligence, Data Science, or Computer Science** to further develop my technical and research expertise.
 
-## Installation & Deployment 📦
-- Clone the repository and modify the content of <b>index.html</b> according to your requirement.
-- Add or remove images from `varadbhogayata.github.io/assets/img/` directory as per your requirement.
-- I highly recommend to use [Github Pages](https://create-react-app.dev/docs/deployment/#github-pages) to deploy the website the EASIEST WAY.
-- To deploy your website, first you need to create github repository with name `<your-github-username>.github.io`. Please don't give any other name.
-- Push the generated code to the `master` branch of this repository.
-- <b>NOTE:</b> Make sure to set `analyticsId` from your Google Analytics account inside the Google Analytics script tag, if you want to use your own Google Analytics account.
+## 🛠️ Technical Skills
 
-## Sections 📚
-✔️ About me\
-✔️ Experience\
-✔️ Projects \
-✔️ Skills \
-✔️ Education\
-✔️ Contact Info\
-✔️ Resume
+### Programming
+- Python
+- C++
+- C
+- SQL
+- JavaScript
+- HTML5
+- CSS3
 
-To view a live example, **[click here](https://varadbhogayata.github.io/)**
+### Artificial Intelligence & Machine Learning
+- Machine Learning
+- Deep Learning
+- Computer Vision
+- Object Detection
+- Image Processing
 
-## Tools Used 🛠️
-* [<b>GitHub Pages</b>](https://create-react-app.dev/docs/deployment/#github-pages) - To host my static website (HTML, CSS, JS).
-* [<b>Materialize</b>](https://materializecss.com/) - A CSS framework to get Google's Material Design components.
-* [<b>Typed.js</b>](https://mattboldt.com/demos/typed-js/) - JavaScript Library
+### Data & Research
+- Data Preprocessing
+- Data Cleaning
+- Dataset Development
+- Dataset Annotation
+- Exploratory Data Analysis
+- Model Evaluation
+- Medical Image Analysis
 
-## Contributing 💡
-#### Step 1
+### Tools
+- Git & GitHub
+- Microsoft Office
+- YOLO
 
-- **Option 1**
-    - 🍴 Fork this repo!
+## 🔬 Research Interests
 
-- **Option 2**
-    - 👯 Clone this repo to your local machine.
+- Artificial Intelligence
+- Machine Learning
+- Deep Learning
+- Computer Vision
+- Medical Image Analysis
+- Object Detection
+- Image Processing
+- Data Science
 
+## 📚 Research & Publications
 
-#### Step 2
+### SAA-YOLO: A Scale-Adaptive Attention Network for Detection and Classification of Impacted Mandibular Third Molars in Panoramic Radiographs
 
-- **Build your code** 🔨🔨🔨
+**IEEE COMPAS 2026**
 
-#### Step 3
+Accepted conference paper focusing on a scale-adaptive attention-based deep learning approach for detecting and classifying impacted mandibular third molars in panoramic radiographs.
 
-- 🔃 Create a new pull request.
+### A Multi-Clinic Dental Panoramic Radiograph Dataset with Expert Labels for Six Conditions and Healthy Cases
 
-## License 📄
-This project is licensed under the MIT License - see the [LICENSE.md](./LICENSE) file for details.
+**Scientific Data, Springer Nature — Under Review**
+
+Research dataset manuscript based on multi-clinic dental panoramic radiographs with expert annotations for dental condition analysis.
+
+### MOPG-7: A Multi-Clinic Dental Panoramic Radiograph Dataset with Expert YOLO Labels
+
+A publicly available dataset containing **2,095 anonymized dental panoramic radiographs** collected from four dental centers in Bangladesh, with expert-validated annotations across seven dental categories.
+
+### LitchiLeaf4001: A Comprehensive Dataset of Lychee Leaf Diseases for AI-Based Visual Diagnosis
+
+A **4,001-image** dataset collected from lychee orchards in Dhaka, Manikganj, and Gaibandha, covering six disease classes for AI-based plant disease detection and computer vision research.
+
+## 🎓 Education
+
+### BSc in Computer Science and Engineering
+
+**Daffodil International University, Bangladesh**
+
+**CGPA: 3.83 / 4.00**
+
+## 💼 Experience
+
+### Intern — Statistics & Informatics Division (SID)
+
+**Ministry of Planning, Government of Bangladesh**
+
+Dhaka, Bangladesh | April 2026 – June 2026
+
+- Supported administrative operations, data entry, and record management.
+- Maintained and organized statistical records with a strong focus on accuracy.
+- Prepared official documents and supported general office coordination.
+- Participated in team meetings and documented key discussions.
+
+## 🏆 Activities & Achievements
+
+- Recommended ranking in the **Take-Off Programming Contest**, Daffodil International University.
+- Recommended ranking in the **Unlock the Algorithm Programming Contest**, Daffodil International University.
+- Served as a **Football Team Captain**, leading team training and coordinating team activities.
+- Participated in academic laboratory projects and collaborative problem-solving activities.
+
+## 🌐 Portfolio
+
+This repository powers my personal portfolio website, where I present my:
+
+- Academic background
+- Research and publications
+- Technical skills
+- Projects
+- Professional experience
+- Achievements and activities
+
+## 📁 Repository Structure
+
+```text
+Personal_portfolio/
+├── assets/
+├── examples/
+├── index.html
+├── robots.txt
+├── CODE_OF_CONDUCT.md
+├── LICENSE
+├── README.md
+└── .gitignore
